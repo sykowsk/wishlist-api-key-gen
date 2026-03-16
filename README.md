@@ -90,7 +90,7 @@ proxy_buffer_size   128k;
 proxy_buffers   4 256k;
 proxy_busy_buffers_size   256k;
 ```
-
+'
 ## Groups
 
 Wishlist has support for multiple wishlist groups. For example, you can have one group for friends and one for family. The wishes on these lists will be completely separate. You can switch between groups using the menu when you click on your profile picture.
